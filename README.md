@@ -5,4 +5,4 @@ When a button is pressed, the game should execute the fuction included in the Ja
 The first to score 10 points win the games and the Score will be reset. Good Luck!
 
 # Overview
-<img src="Pictures/GUI.png" width="500">
+<img src="Pictures/GUI_preview.png" width="500">
