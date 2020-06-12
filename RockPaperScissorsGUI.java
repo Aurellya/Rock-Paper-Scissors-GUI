@@ -58,7 +58,7 @@ class Game extends JFrame {
 		}
 
 		// Add label
-		label = new JLabel("Choose one of the option above!", SwingConstants.CENTER);
+		label = new JLabel("Choose one of the options above!", SwingConstants.CENTER);
 		font = new Font("Courier", Font.BOLD,26);
 		label.setFont(font);
 		add(label);
